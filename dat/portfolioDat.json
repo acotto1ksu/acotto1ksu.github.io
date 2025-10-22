@@ -1,0 +1,26 @@
+{
+    "2DGFX": [
+        {
+            "name": "Final Project",
+            "src": "abyss.png",
+            "desc": "A unique piece that embraces the strange & unfamiliar. This is one of my first attempts at environmental art. My inspiration mainly drew from my long commute to campus I make each day. I pass through various towns, cities, and backroads that each tell their own stories. I wanted to shed light to these stories of the ways I've seen the beautiful nature and complex urbanization I drive through clash, though not in the way you might expect."
+        },
+        {
+            "name": "Midterm Project",
+            "src": "birdsong.png",
+            "desc": "Originally a collection of photos I took in Connecticut, I created a movie poster-like mockup using these images. I wanted to go with something a little unsettling here. It was tricky to try and come up with what seemed to be the \"correct\" lighting for when there's nothing but a bloodied moon emitting a soft red glow from the sky. It took a lot of blending techniques until it looked just-right to me."
+        }
+    ],
+    "PERSONAL": [
+        {
+            "name": "Toy Room",
+            "src": "toyroom.png",
+            "desc": "A person piece I did over the winter. I wanted to create a room that gives you a warm and cozy feeling, full of holiday vibes. I had some friends contribute some artwork scattered throughout the room, however all of the 3D models seen here are made by me. This was done using Blender, and took approximately 3 weeks of on-and-off work to complete."
+        },
+        {
+            "name": "FaceWatch",
+            "src": "facewatch.png",
+            "desc": "A facial recognition software built using python. Created for an end-of-year highschool project."
+        }
+    ]
+}
