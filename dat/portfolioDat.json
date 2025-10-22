@@ -11,6 +11,14 @@
             "desc": "Originally a collection of photos I took in Connecticut, I created a movie poster-like mockup using these images. I wanted to go with something a little unsettling here. It was tricky to try and come up with what seemed to be the \"correct\" lighting for when there's nothing but a bloodied moon emitting a soft red glow from the sky. It took a lot of blending techniques until it looked just-right to me."
         }
     ],
+    "HACKSU": [
+        {
+            "name": "YALLO",
+            "src": "yallo.png",
+            "src_thumb": "yallot.png",
+            "desc": "A rogue and rather annoying desktop virtual assistant, reminiscent of late 90's/early 2000's desktop assistants. It is designed to keep you on task and prevent procrastination, but has a rather foul tongue.\n\nBuilt using python, ChatGPT, and tkinter, this group project for Kent Hack Enough 2024 won second place out of 18 other projects."
+        }
+    ],
     "PERSONAL": [
         {
             "name": "Toy Room",
