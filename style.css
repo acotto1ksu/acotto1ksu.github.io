@@ -83,8 +83,6 @@ html {
 .MainHeaderContent {
     background-color: var(--bg-dark);
     padding: 64px;
-    min-height: 3vh;
-    max-height: 15vh;
 }
 
 .MiniHeader {
@@ -248,10 +246,10 @@ nav {
 }
 
 .MainHeaderButton:hover{
-    transform:skewX(-7deg) skewY(2deg) translate(-4px, -4px);
-    background-color:magenta;
+    transform: translate(-4px, -4px);
+    background-color:var(--accent);
     text-shadow: 4px 4px #1e1e1e55;
-    box-shadow: 8px 8px aqua;
+    box-shadow: 8px 8px var(--button);
     transition-duration:250ms;
 }
 
